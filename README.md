@@ -4,7 +4,7 @@
 + Kurs __28 Eylül 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
-+ Toplam kurs süresi __500__ saattir. 
++ Kurs süresi __500__ saattir. 
 + Dersler __Pazartesi ve Çarşamba__ günleri __19:45-22:45__ saatleri arasında __3__'er saat __(haftada 6  saat)__ yapılacaktır. 
 + Kursumuzun toplam ücreti  KDV dahil __175.000 TL__'dir(Peşin ödemede __155.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __152.000 TL__'dir (Peşin ödemede __132.000  TL__ ’dir). Kurs ücreti peşin ya da __4__ taksit olarak ödenebilir.
 
