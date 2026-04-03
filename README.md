@@ -10,7 +10,7 @@
 
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Dogal-Dil-Isleme-ve-Buyuk-Dil-Modelleri/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/A2N5yVVXStuiYN0tAXTeJw#/registration)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Gomulu-Linux-Sistemleri-Gelistirme-ve-Programlama-Kursu-28-Eylul-2026-/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Gomulu-Linux-Sistemleri-Gelistirme-ve-Programlama-Kursu-28-Eylul-2026-/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Gomulu-Linux-Sistemleri-Gelistirme-ve-Programlama-Kursu-28-Eylul-2026-/blob/main/sss.md)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/DKGMtxcOQsilUTsljcS3Xw#/registration)
