@@ -200,4 +200,4 @@
     * Kernel Thread'lerin Yaratılması ve Kullanımı
   
 # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/A2N5yVVXStuiYN0tAXTeJw#/registration)
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/DKGMtxcOQsilUTsljcS3Xw#/registration)
