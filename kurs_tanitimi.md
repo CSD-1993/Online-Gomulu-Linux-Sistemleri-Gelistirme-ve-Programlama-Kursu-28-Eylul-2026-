@@ -30,5 +30,5 @@ Kurs __Kaan ASLAN__ tarafından verilmektedir.
 
 ## Kursa Kayıt
 
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwsde6hqzgtH9fu8Bd2BqPqfedu34TG6CGR#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/DKGMtxcOQsilUTsljcS3Xw#/registration)
 
